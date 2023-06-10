@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Maru
+ *
+ */
+module javarevision {
+}
